@@ -17,5 +17,7 @@ awesome domain adaptation works with interpretations for object detection.
 ### Tutorials 学习资源
 * Video tutorials 视频教程
   * [Domain adaptation-迁移学习中的领域自适应方法](https://www.bilibili.com/video/BV1T7411R75a/)
-  * 
+  * [Transfer learning-Hungyi Lee 台湾大学李宏毅视频讲解](https://www.youtube.com/watch?v=qD6iD4TFsdQ)
 
+<h2 id="2">2. 综述</h2>
+* Deep Domain Adaptive Object Detection: a Survey [ICIP2020](https://arxiv.org/abs/2002.06797v1)
