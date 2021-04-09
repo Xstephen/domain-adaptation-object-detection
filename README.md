@@ -53,8 +53,10 @@ global、instance、local、pixel-level的含义
 * cityscapes
 * foggy cityscapes (需要申请才可以下载)
 * KITTI
+* SIM10K
 
 <h2 id="5">5. leaderboard (排行榜)</h2>
 
 ### pascal voc->clipart
 源域为pascal voc 2007+2012，目标域为clipart
+|model|backbone|||
