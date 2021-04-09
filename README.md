@@ -49,7 +49,7 @@ global、instance、local、pixel-level的含义
 <h2 id="4">4. datasets (数据集)</h2>
 
 * pascal voc 2007+2012
-* clipart+watercolor
+* clipart+watercolor+comic
 * cityscapes
 * foggy cityscapes (需要申请才可以下载)
 * KITTI
