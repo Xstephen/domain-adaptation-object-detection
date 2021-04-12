@@ -63,9 +63,20 @@ global、instance、local、pixel-level的含义
 |model|backbone|||
 
 ### Weather Adaptation
-cityscapes->foggy cityscapes
+Cityscapes->Foggy Cityscapes
 
 |model|backbone|person|rider|car|truck|bus|train|mbike|bicycle|<img src="https://render.githubusercontent.com/render/math?math=mAP_{50}">|
 |:--|-|-|-|-|-|-|-|-|-|-|
 |Faster RCNN|VGG-16|17.8|23.6|27.1|11.9|23.8|9.1|14.4|22.8|18.8|
 |Every Pixel Matter|VGG-16|41.9|38.7|56.7|22.6|41.5|26.8|24.6|35.5|36.0|
+|Every Pixel Matter|ResNet-101|41.5|43.6|57.1|29.4|44.9|39.7|29.0|36.1|40.2|
+
+### Synthetic-to-real
+Sim10k->Cityscapes
+
+|model|backbone|<img src="https://render.githubusercontent.com/render/math?math=mAP_{50}">|
+|:--|-|-|
+|Faster RCNN|VGG-16|30.1|
+|Every Pixel Matter|VGG-16|43.2|
+|Every Pixel Matter|ResNet-101|45.0|
+
