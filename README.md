@@ -1,3 +1,4 @@
+<!--
 # domain-adaptation-object-detection
 awesome domain adaptation works with interpretations for object detection.
 关于领域自适应，重点关注目标检测中的领域自适应任务，包括：相关资源、综述、代表工作及其代码，常见域迁移场景及数据集等等。
@@ -79,4 +80,4 @@ Sim10k->Cityscapes
 |Faster RCNN|VGG-16|30.1|
 |Every Pixel Matter|VGG-16|43.2|
 |Every Pixel Matter|ResNet-101|45.0|
-
+-->
